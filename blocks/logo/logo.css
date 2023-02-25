@@ -1,0 +1,19 @@
+.logo {
+    background: url(../../images/logo.svg);
+    background-size: 100%;
+    width: 142px;
+    height: 33px;
+}
+
+@media screen and (max-width: 900px) {
+    .logo {
+        margin-left: 27px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .logo {
+        width: 104px;
+        height: 24px;
+    }
+}
