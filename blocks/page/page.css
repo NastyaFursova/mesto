@@ -1,13 +1,4 @@
 .page {
     background-color: #000;
-    max-width: 880px;
-    margin: 0 auto;
     font-family: "Inter", Arial, Helvetica, sans-serif;
-    position: relative;
-}
-
-@media screen and (max-width: 940px) {
-    .page {
-        padding: 0  19px;
-    }
 }
