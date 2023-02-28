@@ -15,6 +15,7 @@
     .profile__career {
         font-size: 14px;
         line-height: 17px;
-        margin-top: 12px;
+        margin-top: 8px;
+        max-width: 280px;
     }
 }
